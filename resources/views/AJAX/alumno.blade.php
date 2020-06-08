@@ -12,7 +12,7 @@
 
 
 <body>
-
+<!-- jdjsakjs -->
 {!!Form::open(array('url'=>'insertar','method'=>'POST'
   ,'autocomplete'=>'off'))!!}
 
